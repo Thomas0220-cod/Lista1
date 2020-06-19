@@ -1,0 +1,6 @@
+C:\Users\Thomas\source\repos\Atividade\AT8\bin\Debug\AT8.exe.config
+C:\Users\Thomas\source\repos\Atividade\AT8\bin\Debug\AT8.exe
+C:\Users\Thomas\source\repos\Atividade\AT8\bin\Debug\AT8.pdb
+C:\Users\Thomas\source\repos\Atividade\AT8\obj\Debug\AT8.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Atividade\AT8\obj\Debug\AT8.exe
+C:\Users\Thomas\source\repos\Atividade\AT8\obj\Debug\AT8.pdb

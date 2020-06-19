@@ -1,0 +1,7 @@
+C:\Users\Thomas\source\repos\Atividade\AT4\bin\Debug\AT4.exe.config
+C:\Users\Thomas\source\repos\Atividade\AT4\bin\Debug\AT4.exe
+C:\Users\Thomas\source\repos\Atividade\AT4\bin\Debug\AT4.pdb
+C:\Users\Thomas\source\repos\Atividade\AT4\obj\Debug\AT4.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\Atividade\AT4\obj\Debug\AT4.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Atividade\AT4\obj\Debug\AT4.exe
+C:\Users\Thomas\source\repos\Atividade\AT4\obj\Debug\AT4.pdb

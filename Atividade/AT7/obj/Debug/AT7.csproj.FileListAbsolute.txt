@@ -1,0 +1,6 @@
+C:\Users\Thomas\source\repos\Atividade\AT7\bin\Debug\AT7.exe.config
+C:\Users\Thomas\source\repos\Atividade\AT7\bin\Debug\AT7.exe
+C:\Users\Thomas\source\repos\Atividade\AT7\bin\Debug\AT7.pdb
+C:\Users\Thomas\source\repos\Atividade\AT7\obj\Debug\AT7.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Atividade\AT7\obj\Debug\AT7.exe
+C:\Users\Thomas\source\repos\Atividade\AT7\obj\Debug\AT7.pdb

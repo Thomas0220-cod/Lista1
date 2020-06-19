@@ -1,0 +1,7 @@
+C:\Users\Thomas\source\repos\Atividade\AT5\obj\Debug\AT5.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\Atividade\AT5\obj\Debug\AT5.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Atividade\AT5\bin\Debug\AT5.exe.config
+C:\Users\Thomas\source\repos\Atividade\AT5\bin\Debug\AT5.exe
+C:\Users\Thomas\source\repos\Atividade\AT5\bin\Debug\AT5.pdb
+C:\Users\Thomas\source\repos\Atividade\AT5\obj\Debug\AT5.exe
+C:\Users\Thomas\source\repos\Atividade\AT5\obj\Debug\AT5.pdb
