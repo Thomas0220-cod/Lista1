@@ -1,0 +1,6 @@
+C:\Users\Thomas\source\repos\Atividade\AT11\bin\Debug\AT11.exe.config
+C:\Users\Thomas\source\repos\Atividade\AT11\bin\Debug\AT11.exe
+C:\Users\Thomas\source\repos\Atividade\AT11\bin\Debug\AT11.pdb
+C:\Users\Thomas\source\repos\Atividade\AT11\obj\Debug\AT11.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Atividade\AT11\obj\Debug\AT11.exe
+C:\Users\Thomas\source\repos\Atividade\AT11\obj\Debug\AT11.pdb
